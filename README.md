@@ -1,2 +1,1 @@
-# simple_shell
-ALX simple_shell project
+My first readme
